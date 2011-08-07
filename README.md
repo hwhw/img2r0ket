@@ -5,6 +5,11 @@ This little tool converts PBM bitmaps to a byte stream that can be written to th
 
 ## Installation
 
+I think the software is restricted to Linux for now (liblzo/cgo usage).
+Note that you need to have Go language support installed.
+
+Then you should be able to just do:
+
 	goinstall github.com/hwhw/img2r0ket
 
 ## Usage
