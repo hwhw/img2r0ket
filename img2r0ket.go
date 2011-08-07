@@ -24,7 +24,7 @@ import (
 	"io/ioutil"
 	"strconv"
 
-	"golzo"
+	"github.com/hwhw/golzo"
 )
 
 var inputFile = flag.String("i", "/proc/self/fd/0", "input file (PBM format)")
