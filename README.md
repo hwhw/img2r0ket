@@ -44,7 +44,6 @@ This would produce a LZO compressed image stream suitable for "playing" on the r
 
 The software is free software, licensed under a MIT-style license. See the *LICENSE* file for the terms.
 
-## References
 
 [1]: http://r0ket.badge.events.ccc.de/ "r0ket homepage"
 [2]: http://github.com/hwhw/golzo "golzo homepage"
